@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TextExplorer-v0.2.5:jar">
+    <output-path>C:/TextExplorer</output-path>
+    <root id="archive" name="TextExplorer.jar">
+      <element id="module-output" name="TextExplorer" />
+    </root>
+  </artifact>
+</component>

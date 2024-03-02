@@ -1,0 +1,8 @@
+"TextExplorer v0.2 " +
+                "\nNOTES:\n. Updated Debug notes" + "\n" +
+                ". Automatic directory creation" + "\n" +
+                ". Bug fixes" + "\n" +
+                "\t Memory error fixed \n" +
+                ". UI Debug notes" + "\n" +
+                ". New error logging system"
+
